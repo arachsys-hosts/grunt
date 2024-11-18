@@ -1,9 +1,9 @@
 curl
 e2fsprogs
 file
+fping
 fzf
 iproute2
-iputils-ping
 kakoune
 ldns-tools
 mtr
